@@ -10,7 +10,7 @@ This firmware is a test with a working period of 7 days from system restart. For
 The module connection scheme is quite simple. To download the firmware, you will need ESP Flash Download Tools.
 Questions about purchasing or downloading case layouts, or about the operation of the alarm service can be asked in Telegram @codyTech discussion.
 <br>
-github of the author of the original alarm map firmware https://github.com/v00g100skr/ukraine_alarm_map/tree/server_refactor
+github of the author of the original alarm map firmware https://github.com/v00g100skr/ukraine_alarm_map/
 <br>
 <br>
 Цей проект зроблено на базі попередніх проектів розумного годинника. 
@@ -22,7 +22,7 @@ github of the author of the original alarm map firmware https://github.com/v00g1
 Схема підключення модулів доволі проста. Для завантаження прошивки вам знадобиться ESP Flash Download Tools.
 Питання по придбанню або завантаженню макетів корпусу, або по роботі сервісу алармів можна задавати у Телеграм @codyTech обговорення
 <br>
-github автора оригінальної прошивки мапи тривог https://github.com/v00g100skr/ukraine_alarm_map/tree/server_refactor
+github автора оригінальної прошивки мапи тривог https://github.com/v00g100skr/ukraine_alarm_map/
 <br>
 <br>
 <a href="https://ibb.co/3YcTJqT"><img src="https://i.ibb.co/G3RdhLd/IZ76-Clock-ESP32-Ukraine.jpg" alt="IZ76-Clock-ESP32-Ukraine" border="0"></a>
