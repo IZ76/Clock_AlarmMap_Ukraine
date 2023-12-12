@@ -9,6 +9,7 @@ To enter the interface, use the standard token 1234asdf5678
 This firmware is a test with a working period of 7 days from system restart. For private users from Ukraine, I provide the possibility of free use. To get the firmware for your module, please contact me in Telegram @Ivan_Zah
 The module connection scheme is quite simple. To download the firmware, you will need ESP Flash Download Tools.
 Questions about purchasing or downloading case layouts, or about the operation of the alarm service can be asked in Telegram @codyTech discussion.
+Git of the author of the original alarm map firmware https://github.com/v00g100skr/ukraine_alarm_map/tree/server_refactor
 <br>
 <br>
 Цей проект зроблено на базі попередніх проектів розумного годинника. 
@@ -19,6 +20,7 @@ Questions about purchasing or downloading case layouts, or about the operation o
 Ця прошивка є тестовою з періодом праці від рестарту системи 7 днів. Для приватних користувачів з України я надаю можливість вільного користування. Для отримання прошивки під ваш модуль зверніться будь ласка до мене в Телеграм @Ivan_Zah
 Схема підключення модулів доволі проста. Для завантаження прошивки вам знадобиться ESP Flash Download Tools.
 Питання по придбанню або завантаженню макетів корпусу, або по роботі сервісу алармів можна задавати у Телеграм @codyTech обговорення
+Гіт автора оригінальної прошивки мапи тривог https://github.com/v00g100skr/ukraine_alarm_map/tree/server_refactor
 <br>
 <br>
 <a href="https://ibb.co/3YcTJqT"><img src="https://i.ibb.co/G3RdhLd/IZ76-Clock-ESP32-Ukraine.jpg" alt="IZ76-Clock-ESP32-Ukraine" border="0"></a>
