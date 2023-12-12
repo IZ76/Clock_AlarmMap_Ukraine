@@ -9,7 +9,7 @@ To enter the interface, use the standard token 1234asdf5678
 This firmware is a test with a working period of 7 days from system restart. For private users from Ukraine, I provide the possibility of free use. To get the firmware for your module, please contact me in Telegram @Ivan_Zah
 The module connection scheme is quite simple. To download the firmware, you will need ESP Flash Download Tools.
 Questions about purchasing or downloading case layouts, or about the operation of the alarm service can be asked in Telegram @codyTech discussion.
-
+<br>
 Цей проект зроблено на базі попередніх проектів розумного годинника. 
 Проект виконано на базі модулю ЕСП-32. 
 В проект інтегровано модифікований код для отримання сигналів тривог України з сайту https://alarms.net.ua/
@@ -24,14 +24,15 @@ Questions about purchasing or downloading case layouts, or about the operation o
 <a href="https://ibb.co/X5fb252"><img src="https://i.ibb.co/s1p2m1m/esp-download-tool.jpg" alt="esp-download-tool" border="0"></a>
 
 Photo of a clock with matrices in two rows.
-Фото годинника з матрицями в два ряди /n
-
+Фото годинника з матрицями в два ряди.
+<br>
 <a href="https://ibb.co/KLJs1Dx"><img src="https://i.ibb.co/KLJs1Dx/1-1.jpg" alt="1-1" border="0"></a>
 <a href="https://ibb.co/mckffg8"><img src="https://i.ibb.co/mckffg8/1.jpg" alt="1" border="0"></a>
 <a href="https://ibb.co/g9ffhgF"><img src="https://i.ibb.co/g9ffhgF/2.jpg" alt="2" border="0"></a>
 
 
 Photo of a clock with matrices in one row.
-Фото годинника з матрицями в один ряд./n
+Фото годинника з матрицями в один ряд.
+<br>
 <a href="https://ibb.co/ydsv78h"><img src="https://i.ibb.co/ydsv78h/4.jpg" alt="4" border="0"></a>
 <a href="https://ibb.co/WWtFTwC"><img src="https://i.ibb.co/WWtFTwC/5.jpg" alt="5" border="0"></a>
